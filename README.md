@@ -11,7 +11,7 @@ Date | Presenter | Topic
 26/2 | SA | [Relationship Induced Multi-Template Learning for Diagnosis of Alzheimer's Disease and Mild Cognitive Impairment](https://www.ncbi.nlm.nih.gov/pubmed/26742127)
 5/2 | SS | [MDNet: A Semantically and Visually Interpretable Medical Image Diagnosis Network](https://arxiv.org/abs/1707.02485) -- [Resources](https://computing-mq.github.io/iarg/links-2018-02-05.html)
 
-# Presenters
+### Presenters
 
 Abbreviation | Name
 ------------ | ----
