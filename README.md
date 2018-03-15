@@ -2,7 +2,7 @@
 
 We meet on Monday afternoons, 3.30-5.00pm in the Department's seminar room:  9WW 357.  All are welcome to join us.
 
-Date | [Presenter](#Presenters) | Topic
+Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
 9/4 | MS |
 26/3 | RN |
