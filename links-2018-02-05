@@ -1,0 +1,23 @@
+Topic | Links
+----- | -----
+More about CIFAR-10 and  CIFAR-100 Datasets | https://www.cs.toronto.edu/~kriz/cifar.html
+Image Captioning | https://cs.stanford.edu/people/karpathy/deepimagesent/
+Text-guided attention for Image Captioning | http://cvlab.postech.ac.kr/research/text_att/
+Various architectures of CNN in Computer Vision | http://cv-tricks.com/cnn/understand-resnet-alexnet-vgg-inception/
+Understanding LSTMs | http://colah.github.io/posts/2015-08-Understanding-LSTMs/ https://medium.com/mlreview/understanding-lstm-and-its-diagrams-37e2f46f1714
+Course on Cutting-Edge deep learning for CV at University of  | http://slazebni.cs.illinois.edu/spring17/
+Wide Residual Networks | https://arxiv.org/pdf/1605.07146.pdf
+Working of Attention mechanism | https://blog.heuritech.com/2016/01/20/attention-mechanism/
+What is BLEU score and how to calculate BLEU score in Python | https://machinelearningmastery.com/calculate-bleu-score-for-text-python/
+Chest X-ray dataset with their annotated diagnosis report | https://openi.nlm.nih.gov/gridquery.php?q=cancer&it=xg,xm&coll=cxr
+Model Zoo for Computer Vision Pre-trained models | https://github.com/BVLC/caffe/wiki/Model-Zoo
+Important Papers/CNN models in CV | https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
+https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/
+https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks-Part-2/
+What is Pre-trained models and how to use these pre-trained models for CV tasks | https://machinelearningmastery.com/use-pre-trained-vgg-model-classify-objects-photographs/
+https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
+https://deeplearningsandbox.com/how-to-use-transfer-learning-and-fine-tuning-in-keras-and-tensorflow-to-build-an-image-recognition-94b0b02444f2
+Relevant papers on Fine tuning and practical advice | http://cs231n.github.io/transfer-learning/
+
+
+
