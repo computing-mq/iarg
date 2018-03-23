@@ -6,7 +6,7 @@ Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
 23/4 | ON |
 9/4 | MS |
-26/3 | RN |
+26/3 | RN | Z. Yang _et al_ [Hybrid Radar Emitter Recognition Based on Rough k-Means Classifier and Relevance Vector Machine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3574708/)
 19/3 | MY | Yousefi-Azar _et al_ [Malytics: A Malware Detection Scheme](https://arxiv.org/abs/1803.03465)
 12/3 | TH | Jegou _et al_ [The One Hundred Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation](https://arxiv.org/pdf/1611.09326.pdf)  ([Presentation](presentation-2018-03-12.pdf))
 26/2 | SA | Liu _et al_ [Relationship Induced Multi-Template Learning for Diagnosis of Alzheimer's Disease and Mild Cognitive Impairment](https://www.ncbi.nlm.nih.gov/pubmed/26742127)
