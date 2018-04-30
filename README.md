@@ -6,7 +6,7 @@ Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
 7/5 | |
 30/4 | AA | J. Wolterink _et al_ [Generative Adversarial Networks for Noise Reduction in Low-Dose CT](https://ieeexplore.ieee.org/document/7934380/)
-23/4 | ON | Facial Expression Recognition using Deep Learning
+23/4 | ON | Facial Expression Recognition using Deep Learning ([Presentation](presentation-2018-04-23.pdf))
 9/4 | MS | H. Qin _et al_ [DeepFish: Accurate underwater live fish recognition with a deep architecture](https://www.sciencedirect.com/science/article/pii/S0925231215017312)
 26/3 | RN | Z. Yang _et al_ [Hybrid Radar Emitter Recognition Based on Rough k-Means Classifier and Relevance Vector Machine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3574708/) ([Presentation](presentation-2018-03-26.pdf); [RVM paper by Tipping](https://papers.nips.cc/paper/1719-the-relevance-vector-machine.pdf))
 19/3 | MY | Yousefi-Azar _et al_ [Malytics: A Malware Detection Scheme](https://arxiv.org/abs/1803.03465)
