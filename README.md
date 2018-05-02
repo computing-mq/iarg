@@ -4,7 +4,10 @@ We meet on Monday afternoons, 3.30-5.00pm in the Department's seminar room:  9WW
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
-7/5 | |
+28/5 | |
+21/5 | |
+14/5 | |
+7/5 | SS | P. Wang _et al_ [FVQA: Fact-based Visual Question Answering](https://arxiv.org/abs/1606.05433)
 30/4 | AA | J. Wolterink _et al_ [Generative Adversarial Networks for Noise Reduction in Low-Dose CT](https://ieeexplore.ieee.org/document/7934380/)
 23/4 | ON | Facial Expression Recognition using Deep Learning ([Presentation](presentation-2018-04-23.pdf))
 9/4 | MS | H. Qin _et al_ [DeepFish: Accurate underwater live fish recognition with a deep architecture](https://www.sciencedirect.com/science/article/pii/S0925231215017312)
