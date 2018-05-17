@@ -1,4 +1,4 @@
-## Image Analysis Reading Group - Department of Computing, Macquarie University
+### IARG in Department of Computing, Macquarie University
 
 We meet on Monday afternoons, 3.30-5.00pm in the Department's seminar room:  9WW 357.  All are welcome to join us.
 
