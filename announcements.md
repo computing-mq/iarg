@@ -10,8 +10,6 @@ If you are leading discussion of a paper, please use the following template.  Pl
 and abstract as shown.
 
 ```
-IARG  https://computing-mq.github.io/iarg/
-
 <<Your Name>> will lead our discussion at the next IARG group meeting which will be held on <<Date>> 
 at 3.30-5.00pm in 9WW(E6A)327.  The paper details are below.
 
@@ -21,12 +19,16 @@ Paper title: <<Title of the paper>>
 
 Abstract:
 <<Copy-paste the abstract of the paper>>
+
+----
+Image Analysis Reading Group, Department of Computing, Macquarie University
+https://computing-mq.github.io/iarg/
 ```
 
 ## Presenting your work
 
 If you are presenting your own work, please provide the relevant details using the following template.  
-Please add a brief bio if you are not a student.
+Please include a brief bio if you are not a student or MQ Computing staff.
 
 ```
 IARG  https://computing-mq.github.io/iarg/
@@ -40,4 +42,11 @@ URL: <<If there is a relevant paper, please provide URL, otherwise delete this l
 
 Abstract:
 <<Write a brief abstract of your presentation>>
+
+Bio:
+<<Please insert a brief bio if you are not a student or MQ Computing staff>>
+
+----
+Image Analysis Reading Group, Department of Computing, Macquarie University
+https://computing-mq.github.io/iarg/
 ```
