@@ -10,6 +10,8 @@ If you are leading discussion of a paper, please use the following template.  Pl
 and abstract as shown.
 
 ```
+IARG  https://computing-mq.github.io/iarg/
+
 <<Your Name>> will lead our discussion at the next IARG group meeting which will be held on <<Date>> 
 at 3.30-5.00pm in 9WW(E6A)327.  The paper details are below.
 
@@ -27,6 +29,8 @@ If you are presenting your own work, please provide the relevant details using t
 Please add a brief bio if you are not a student.
 
 ```
+IARG  https://computing-mq.github.io/iarg/
+
 <<Your Name>> will present their research at the next IARG group meeting which will be held on <<Date>> 
 at 3.30-5.00pm in 9WW(E6A)327. 
 
