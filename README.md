@@ -31,8 +31,9 @@ PA | Peter Anderson
 RN | Robert Newport
 SA | Saruar Alam
 SS | Sonit Singh
+TH | Taherah Hassanzadeh
 
 ### Resources
 
-[Preparing a session announcement](announcement.md)
-TH | Taherah Hassanzadeh
+[Preparing a session announcement](announcements.md)
+
