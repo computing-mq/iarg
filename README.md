@@ -4,9 +4,10 @@ We meet on Monday afternoons, 3.30-5.00pm in the Department's seminar room:  9WW
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
-28/5 | |
-21/5 | |
-14/5 | |
+4/6 | PA | 
+28/5 | LZ |
+21/5 | KH |
+14/5 | SA | Impact of MRI technology on Alzheimer’s disease detection
 7/5 | SS | P. Wang _et al_ [FVQA: Fact-based Visual Question Answering](https://arxiv.org/abs/1606.05433)
 30/4 | AA | J. Wolterink _et al_ [Generative Adversarial Networks for Noise Reduction in Low-Dose CT](https://ieeexplore.ieee.org/document/7934380/)
 23/4 | ON | Facial Expression Recognition using Deep Learning ([Presentation](presentation-2018-04-23.pdf))
@@ -22,10 +23,16 @@ Date | [Presenter](#presenters) | Topic
 Abbreviation | Name
 ------------ | ----
 AA | Ava Assadi
+KH | Kevin Ho-Shon
 MS | Maryam Shahpasand
 MY | Mahmood Yousefi-Azar
 ON | Omid Nezami
+PA | Peter Anderson
 RN | Robert Newport
 SA | Saruar Alam
 SS | Sonit Singh
+
+### Resources
+
+[Preparing a session announcement](announcement.md)
 TH | Taherah Hassanzadeh
