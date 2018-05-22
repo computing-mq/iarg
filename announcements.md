@@ -6,29 +6,12 @@ of Computing.
 
 ## Leading discussion
 
-If you are leading discussion of a paper, please use the following template.  Please insert your name, the date, paper URL, title 
-and abstract as shown.
-
-```
-<<Your Name>> will lead our discussion at the next IARG group meeting which will be held on <<Date>> 
-at 3.30-5.00pm in 9WW(E6A)327.  The paper details are below.
-
-The paper can be accessed at: <<URL of the paper>>
-
-Paper title: <<Title of the paper>>
-
-Abstract:
-<<Copy-paste the abstract of the paper>>
-
-----
-Image Analysis Reading Group, Department of Computing, Macquarie University
-https://computing-mq.github.io/iarg/
-```
+If you are leading discussion of a paper, please use the (discussion leader template)[leading.txt].  Please insert your name, the date, paper URL, title and abstract as shown.
 
 ## Presenting your work
 
-If you are presenting your own work, please provide the relevant details using the following template.  
-Please include a brief bio if you are not a student or MQ Computing staff.
+If you are presenting your own work, please provide the relevant details using the (presentation template)[presenting.txt].  
+Please include a brief bio.
 
 ```
 IARG  https://computing-mq.github.io/iarg/
