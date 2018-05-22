@@ -15,5 +15,5 @@ If you create additional support material (such as a powerpoint presentation) fo
 If you are presenting your own work, please provide the relevant details using the (presentation template)[presenting.txt].  
 Please include a brief bio.
 
-If you are willing to share your slides with the group, please provide a PDF afterwards to sonit.singh@hdr.mq.edu.au (with a copy to len.hamey@mq.edu.au) so that it can be made available on thr group's website.
+If you are willing to share your slides with the group, please provide a PDF afterwards to sonit.singh@hdr.mq.edu.au (with a copy to len.hamey@mq.edu.au) so that it can be made available on the group's website.
 
