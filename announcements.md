@@ -6,13 +6,13 @@ of Computing.
 
 ## Leading discussion
 
-If you are leading discussion of a paper, please use the (discussion leader template)[leading.txt].  Please insert your name, the date, paper URL, title and abstract as shown.
+If you are leading discussion of a paper, please use the [discussion leader template](leading.txt).  Please insert your name, the date, paper URL, title and abstract as shown.
 
 If you create additional support material (such as a powerpoint presentation) for use in the discussion, please provide a PDF afterwards to sonit.singh@hdr.mq.edu.au (with a copy to len.hamey@mq.edu.au) so that it can be made available on thr group's website.
 
 ## Presenting your work
 
-If you are presenting your own work, please provide the relevant details using the (presentation template)[presenting.txt].  
+If you are presenting your own work, please provide the relevant details using the [presentation announcement template](presenting.txt).  
 Please include a brief bio.
 
 If you are willing to share your slides with the group, please provide a PDF afterwards to sonit.singh@hdr.mq.edu.au (with a copy to len.hamey@mq.edu.au) so that it can be made available on the group's website.
