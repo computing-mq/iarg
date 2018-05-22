@@ -8,29 +8,12 @@ of Computing.
 
 If you are leading discussion of a paper, please use the (discussion leader template)[leading.txt].  Please insert your name, the date, paper URL, title and abstract as shown.
 
+If you create additional support material (such as a powerpoint presentation) for use in the discussion, please provide a PDF afterwards to sonit.singh@hdr.mq.edu.au (with a copy to len.hamey@mq.edu.au) so that it can be made available on thr group's website.
+
 ## Presenting your work
 
 If you are presenting your own work, please provide the relevant details using the (presentation template)[presenting.txt].  
 Please include a brief bio.
 
-```
-IARG  https://computing-mq.github.io/iarg/
-
-<<Your Name>> will present their research at the next IARG group meeting which will be held on <<Date>> 
-at 3.30-5.00pm in 9WW(E6A)327. 
-
-Title: <<Title of your presentation>>
-
-URL: <<If there is a relevant paper, please provide URL, otherwise delete this line>>
-
-Abstract:
-<<Write a brief abstract of your presentation>>
-
-Bio:
-<<Please insert a brief bio if you are not a student or MQ Computing staff>>
-
-----
-Image Analysis Reading Group, Department of Computing, Macquarie University
-https://computing-mq.github.io/iarg/
-```
+If you are willing to share your slides with the group, please provide a PDF afterwards to sonit.singh@hdr.mq.edu.au (with a copy to len.hamey@mq.edu.au) so that it can be made available on thr group's website.
 
