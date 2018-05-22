@@ -1,7 +1,6 @@
-The Image Analysis Reading Group (IARG) meets on most Mondays at 3.30-5.00pm in 9WW 357.  We also have a website at https://computing-mq.github.io/iarg/
+The Image Analysis Reading Group (IARG) meets on Mondays at 3.30-5.00pm in 9WW 357.  We also have a website at https://computing-mq.github.io/iarg/
 
-<<Your Name>> will lead our discussion at the next IARG group meeting which will be held on <<Date>> 
-at 3.30-5.00pm in 9WW(E6A)357.  The paper details are below.
+<<Your Name>> will lead our discussion at the next IARG group meeting which will be held on <<Date>> at 3.30-5.00pm in 9WW(E6A)357.  The paper details are below.
 
 The paper can be accessed at: <<URL of the paper>>
 
