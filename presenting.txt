@@ -1,0 +1,16 @@
+<<Your Name>> will present their research at the next IARG group meeting which will be held on <<Date>> 
+at 3.30-5.00pm in 9WW(E6A)327. 
+
+Title: <<Title of your presentation>>
+
+URL: <<If there is a relevant paper, please provide URL, otherwise delete this line>>
+
+Abstract:
+<<Write a brief abstract of your presentation>>
+
+Bio:
+<<Please insert a brief bio if you are not a student or MQ Computing staff>>
+
+----
+Image Analysis Reading Group, Department of Computing, Macquarie University
+https://computing-mq.github.io/iarg/
