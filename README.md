@@ -19,7 +19,7 @@ Date | [Presenter](#presenters) | Topic
 12/3 | TH | Jegou _et al_ [The One Hundred Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation](https://arxiv.org/pdf/1611.09326.pdf)  ([Presentation](presentation-2018-03-12.pdf))
 26/2 | SA | Liu _et al_ [Relationship Induced Multi-Template Learning for Diagnosis of Alzheimer's Disease and Mild Cognitive Impairment](https://www.ncbi.nlm.nih.gov/pubmed/26742127)
 5/2 | SS | Zhang _et al_ [MDNet: A Semantically and Visually Interpretable Medical Image Diagnosis Network](https://arxiv.org/abs/1707.02485) ([Resources](links-2018-02-05.md))
-
+ 
 ### Presenters
 
 Abbreviation | Name
