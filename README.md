@@ -4,8 +4,10 @@ We meet on Monday afternoons, 3.30-5.00pm in the Department's seminar room:  9WW
 
 Date | [Presenter](#presenters) | Topic
 ---- | --------- | -----
-4/6 | PA | 
-28/5 | LZ |
+25/6 | |
+18/6 | |
+4/6 | PA | Vision and Language Learning:  From Image Captioning and Visual Question Answering towards Embodied Agents ([Details](details-2018-06-04.md))
+28/5 | Video | Tom Goldstein [What do Neural loss surfaces look like?](https://www.youtube.com/watch?v=78vq6kgsTa8)
 21/5 | KH | A Radiologist's Introduction to Medical Imaging ([Presentation](presentation-2018-05-21.pdf))
 14/5 | SA | Impact of MRI technology on Alzheimer’s disease detection ([Presentation](presentation-2018-05-14.pdf))
 7/5 | SS | P. Wang _et al_ [FVQA: Fact-based Visual Question Answering](https://arxiv.org/abs/1606.05433)
