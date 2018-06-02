@@ -2,9 +2,9 @@
 
 We meet on Monday afternoons, 3.30-5.00pm in the Department's seminar room:  9WW 357.  All are welcome to join us.
 
-### Meetings
+### MEETINGS
 
-Date | [Presenter](#presenters) | Topic
+Date | Presenter | Topic
 ---- | --------- | -----
 25/6 | |
 18/6 | |
@@ -22,7 +22,7 @@ Date | [Presenter](#presenters) | Topic
 26/2 | SA | Liu _et al_ [Relationship Induced Multi-Template Learning for Diagnosis of Alzheimer's Disease and Mild Cognitive Impairment](https://www.ncbi.nlm.nih.gov/pubmed/26742127)
 5/2 | SS | Zhang _et al_ [MDNet: A Semantically and Visually Interpretable Medical Image Diagnosis Network](https://arxiv.org/abs/1707.02485) ([Resources](links-2018-02-05.md))
  
-### Presenters
+### PRESENTERS
 
 Abbreviation | Name
 ------------ | ----
@@ -37,7 +37,7 @@ SA | Saruar Alam
 SS | Sonit Singh
 TH | Taherah Hassanzadeh
 
-### Resources
+### RESOURCES
 
 [Preparing a session announcement](announcements.md)
 
