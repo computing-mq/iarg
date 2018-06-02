@@ -5,6 +5,6 @@
 
 .view { visibility:hidden; }
 footer { visibility:hidden; }
-h2 { color:#76232F; }
+h1, h1 a:link, h1 a:visited { color:#76232F; text-decoration: none; }
 a:link, a:visited { color:#76232F; text-decoration: underline; }
-a:hover, a:active { color:#76232F; }
+a:hover, a:active { color:#76232F; text-decoration: none; }
