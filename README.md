@@ -6,8 +6,9 @@ We meet on Monday afternoons, 3.30-5.00pm in the Department's seminar room:  9WW
 
 Date | Presenter | Topic
 ---- | --------- | -----
-2/7 | | 
-25/6 | KS | Medical Imaging at Biomedical Informatics Group, CSRIO Health & Biosecurity
+9/7 | AA | Fast ai workshop session
+2/7 | WR | Modulating and decoding visual information: from cannabinoids to artificial neural networks
+25/6 | KS | Medical Imaging at Biomedical Informatics Group, CSRIO Health & Biosecurity  ([Presentation](Presentation-2018-06-25.pdf))
 18/6 | TH | H. Jia _et al_ [Atlas registration and ensemble deep convolutional neural network-based prostate segmentation using magnetic resonance imaging](https://www.sciencedirect.com/science/article/pii/S0925231217316132) ([Presentation](presentation-2018-06-19.pdf))
 4/6 | PA | Vision and Language Learning:  From Image Captioning and Visual Question Answering towards Embodied Agents ([Details](details-2018-06-04.md))
 28/5 | Video | Tom Goldstein [What do Neural loss surfaces look like?](https://www.youtube.com/watch?v=78vq6kgsTa8)
