@@ -1,6 +1,6 @@
 # How to announce your IARG presentation
 
-Please prepare an email providing the necessary details and send it to sonit.singh@hdr.mq.edu.au with a copy to len.hamey@mq.edu.au .
+Please prepare an email providing the necessary details and send it to Ava.Assadi-Abolvardi@hdr.mq.edu.au with a copy to len.hamey@mq.edu.au .
 Announcements of IARG activities are circulated to all IARG members, and also to all academic staff and PhD students in the Department
 of Computing.
 
