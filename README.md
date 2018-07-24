@@ -6,6 +6,7 @@ We meet on Monday afternoons, 3.30-5.00pm in the Department's seminar room:  9WW
 
 Date | Presenter | Topic
 ---- | --------- | -----
+23/7 | MS | N. Papernot _et al_ [Practical Black-Box Attacks against Machine Learning](https://dl.acm.org/citation.cfm?id=3053009)
 9/7 | AA | Fast ai workshop session
 2/7 | WR | Modulating and decoding visual information: from cannabinoids to artificial neural networks
 25/6 | KS | Medical Imaging at Biomedical Informatics Group, CSRIO Health & Biosecurity  ([Presentation](Presentation-2018-06-25.pdf))
