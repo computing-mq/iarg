@@ -6,7 +6,7 @@ We meet on Monday afternoons, 3.30-5.00pm in the Department's seminar room:  9WW
 
 Date | Presenter | Topic
 ---- | --------- | -----
-30/7 | SS | A. Gordo and D. Larlus [Beyond instance-level image retrieval: Leveraging captions to learn a global visual representation for semantic retrieval](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8100043&tag=1)
+30/7 | SS | A. Gordo and D. Larlus [Beyond instance-level image retrieval: Leveraging captions to learn a global visual representation for semantic retrieval](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8100043&tag=1) ([Presentation](presentation-2018-07-30.pdf))
 23/7 | MS | N. Papernot _et al_ [Practical Black-Box Attacks against Machine Learning](https://dl.acm.org/citation.cfm?id=3053009)
 9/7 | AA | Fast ai workshop session
 2/7 | WR | Modulating and decoding visual information: from cannabinoids to artificial neural networks
