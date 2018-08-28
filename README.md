@@ -6,6 +6,7 @@ We meet on Monday afternoons, 3.30-5.00pm in the Department's seminar room:  9WW
 
 Date | Presenter | Topic
 ---- | --------- | -----
+27/8 | Video | Nando de Freitas and Scott Reed [Deep Learning: Practice and Trends (NIPS 2017 Tutorial)](https://www.youtube.com/watch?v=YJnddoa8sHk)
 20/8 | YQ | Computer simulation for the vascular diseases, Where we are and where to go
 13/8 | MY | M. Zaheer _et al_ [Deep Sets](https://arxiv.org/abs/1703.06114)
 6/8 | AA | N. Ballas _et al_ [Delving Deeper Into Convolutional Networks For Learning Video Representations](https://arxiv.org/pdf/1511.06432.pdf)
