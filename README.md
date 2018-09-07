@@ -6,6 +6,7 @@ We meet on Monday afternoons, 3.30-5.00pm in the Department's seminar room:  9WW
 
 Date | Presenter | Topic
 ---- | --------- | -----
+10/9 | SS | Rajpurkar _et al_  [CheXNet: Radiologist-Level Pneumonia Detection on Chest X-rays with Deep Learning](https://arxiv.org/pdf/1711.05225.pdf)
 3/9 | MS | M . Jagielski _et al_ [Manipulating Machine Learning: Poisoning Attacks and Countermeasures for Regression Learning](https://arxiv.org/pdf/1804.00308.pdf)
 27/8 | Video | Nando de Freitas and Scott Reed [Deep Learning: Practice and Trends (NIPS 2017 Tutorial)](https://www.youtube.com/watch?v=YJnddoa8sHk)
 20/8 | YQ | Computer simulation for the vascular diseases, Where we are and where to go
