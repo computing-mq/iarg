@@ -6,6 +6,7 @@ We meet on Monday afternoons, 3.30-5.00pm in the Department's seminar room:  9WW
 
 Date | Presenter | Topic
 ---- | --------- | -----
+22/10 | LW | Learning SPD-matrix-based Representation for Visual Recognition 
 15/10 | AA | [VoxResNet: Deep Voxelwise Residual Networks for Volumetric Brain Segmentation](https://arxiv.org/abs/1608.05895)
 8/10 | Canceled.
 17/9 | MY | M. Peters _et al_ [Deep Contextualized word representations](https://arxiv.org/pdf/1802.05365.pdf)
@@ -42,6 +43,7 @@ Abbreviation | Name
 AA | Ava Assadi
 KH | Kevin Ho-Shon
 KS | Kaikai Shen
+LW | Lei Wang
 MS | Maryam Shahpasand
 MY | Mahmood Yousefi-Azar
 ON | Omid Nezami
