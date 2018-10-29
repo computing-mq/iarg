@@ -6,9 +6,9 @@ We meet on Monday afternoons, 3.30-5.00pm in the Department's seminar room:  9WW
 
 Date | Presenter | Topic
 ---- | --------- | -----
-22/10 | LW | Learning SPD-matrix-based Representation for Visual Recognition 
+29/10 | MS | P.Samangouei _et al_ [Defense-GAN: Protecting Classifiers Against Adversarial Attacks Using Generative Models](https://arxiv.org/abs/1805.06605)
+22/10 | LW | Learning SPD-matrix-based Representation for Visual Recognition  ([Presentation](presentation-2018-10-22.pdf))
 15/10 | AA | [VoxResNet: Deep Voxelwise Residual Networks for Volumetric Brain Segmentation](https://arxiv.org/abs/1608.05895)
-8/10 | Canceled.
 17/9 | MY | M. Peters _et al_ [Deep Contextualized word representations](https://arxiv.org/pdf/1802.05365.pdf)
 10/9 | SS | Rajpurkar _et al_  [CheXNet: Radiologist-Level Pneumonia Detection on Chest X-rays with Deep Learning](https://arxiv.org/pdf/1711.05225.pdf)
 3/9 | MS | M . Jagielski _et al_ [Manipulating Machine Learning: Poisoning Attacks and Countermeasures for Regression Learning](https://arxiv.org/pdf/1804.00308.pdf)
