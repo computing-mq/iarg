@@ -6,7 +6,7 @@ We meet on Monday afternoons, 3.30-5.00pm in the Department's seminar room:  9WW
 
 Date | Presenter | Topic
 ---- | --------- | -----
-12/11 | LH | A. Zamir _et al_ [Taskonomy: Disentangling Task Transfer Learning] (https://arxiv.org/abs/1804.08328)
+12/11 | LH | A. Zamir _et al_ [Taskonomy: Disentangling Task Transfer Learning](https://arxiv.org/abs/1804.08328)
 29/10 | MS | P.Samangouei _et al_ [Defense-GAN: Protecting Classifiers Against Adversarial Attacks Using Generative Models](https://arxiv.org/abs/1805.06605)
 22/10 | LW | Learning SPD-matrix-based Representation for Visual Recognition  ([Presentation](presentation-2018-10-22.pdf))
 15/10 | AA | [VoxResNet: Deep Voxelwise Residual Networks for Volumetric Brain Segmentation](https://arxiv.org/abs/1608.05895)
@@ -44,6 +44,7 @@ Abbreviation | Name
 AA | Ava Assadi
 KH | Kevin Ho-Shon
 KS | Kaikai Shen
+LH | Len Hamey
 LW | Lei Wang
 MS | Maryam Shahpasand
 MY | Mahmood Yousefi-Azar
