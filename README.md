@@ -6,7 +6,8 @@ We meet on Monday afternoons, 3.30-5.00pm in the Department's seminar room:  9WW
 
 Date | Presenter | Topic
 ---- | --------- | -----
-26/11 | RN | Machine learning with synthetic data 
+26/11 | RN | Machine learning with synthetic data- sources: 1-[Training Deep Networks with Synthetic Data: Bridging the Reality Gap by Domain Randomization](https://arxiv.org/abs/1804.06516), 2- [Total Capture: A 3D Deformation Model for Tracking Faces, Hands, and Bodies](https://arxiv.org/abs/1801.01615) and 3- [Designing Empirical Lab Experiments for SAR-ATR](https://ieeexplore.ieee.org/document/8508994)
+
 19/11 | RN | MRes Thesis on Radar Emitter Recognition (RER) 
 12/11 | LH | A. Zamir _et al_ [Taskonomy: Disentangling Task Transfer Learning](https://arxiv.org/abs/1804.08328)
 29/10 | MS | P.Samangouei _et al_ [Defense-GAN: Protecting Classifiers Against Adversarial Attacks Using Generative Models](https://arxiv.org/abs/1805.06605)
