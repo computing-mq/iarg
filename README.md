@@ -6,6 +6,8 @@ We meet on Monday afternoons, 3.30-5.00pm in the Department's seminar room:  9WW
 
 Date | Presenter | Topic
 ---- | --------- | -----
+17/12 | LH | 30+ Years: A Research Story
+10/12 | Canceled
 3/12 | TH | MRes Thesis on Convolutional Neural Networks for Prostate Magnetic Resonance Image Segmentation 
 26/11 | RN | Machine learning with synthetic data - Sources: 1-[Training Deep Networks with Synthetic Data: Bridging the Reality Gap by Domain Randomization](https://arxiv.org/abs/1804.06516), 2- [Total Capture: A 3D Deformation Model for Tracking Faces, Hands, and Bodies](https://arxiv.org/abs/1801.01615) and 3- [Designing Empirical Lab Experiments for SAR-ATR](https://ieeexplore.ieee.org/document/8508994)
 19/11 | RN | MRes Thesis on Radar Emitter Recognition (RER) 
