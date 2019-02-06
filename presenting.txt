@@ -1,4 +1,6 @@
-The Image Analysis Reading Group (IARG) meets on Mondays at 3.30-5.00pm in 9WW 357.  We also have a website at https://computing-mq.github.io/iarg/
+NOTE: IARG now meets (approximately) fortnightly, alternating with MLRG. Meetings start at 3.00pm, not 3.30pm. The meeting venue will change from Feb 25th, 2019, as the Department of Computing relocates to 4 Research Park Drive.
+
+The Image Analysis Reading Group (IARG) meets fortnightly on Mondays at 3.00-4.30pm in 9WW 357.  We also have a website at https://computing-mq.github.io/iarg/
 
 <<Your Name>> will present their research at the next IARG group meeting which will be held on <<Date>> at 3.30-5.00pm in 9WW(E6A)327. 
 
