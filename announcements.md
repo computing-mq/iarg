@@ -2,7 +2,10 @@
 
 Please prepare an email providing the necessary details and send it to Ava.Assadi-Abolvardi@hdr.mq.edu.au with a copy to len.hamey@mq.edu.au .
 Announcements of IARG activities are circulated to all IARG members, and also to all academic staff and PhD students in the Department
-of Computing.
+of Computing.  Please send to the following mailing lists:
+
+O365-Group-FSE-IARG-Members;O365-Group-Computing Academic;O365-Group-Computing Postgraduate;sci.MLRG-Google-Group;sci.LTG-Google-Group
+
 
 ## Leading discussion
 
