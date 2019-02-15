@@ -6,6 +6,8 @@ We meet on Monday afternoons, 3.30-5.00pm in the Department's seminar room:  9WW
 
 Date | Presenter | Topic
 ---- | --------- | -----
+11/2 | |
+2018 | |
 17/12 | LH | 30+ Years: A Research Story
 10/12 | Canceled
 3/12 | TH | MRes Thesis on Convolutional Neural Networks for Prostate Magnetic Resonance Image Segmentation 
