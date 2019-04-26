@@ -6,6 +6,10 @@ We meet on Monday afternoons, 3.00-4.30pm in the Department's seminar room:  9WW
 
 Date | Presenter | Topic
 ---- | --------- | -----
+13/5 | SS | [Field guide for Troubleshooting Deep Neural Networks](http://josh-tobin.com/troubleshooting-deep-neural-networks)
+29/4 | MG | [3D MRI brain tumor segmentation using autoencoder regularization](https://arxiv.org/abs/1810.11654)
+25/3 | AA | [SegAN: Adversarial Network with Multi-scale L1 Loss for Medical Image Segmentation](https://link.springer.com/content/pdf/10.1007%2Fs12021-018-9377-x.pdf)
+11/3 | XD | [Deep Learning for MR Angiography: Automated Detection of Cerebral Aneurysms](https://pubs.rsna.org/doi/10.1148/radiol.2018180901)
 25/2 | SS | [Diverse and Coherent Paragraph Generation from Images](http://openaccess.thecvf.com/content_ECCV_2018/papers/Moitreya_Chatterjee_Diverse_and_Coherent_ECCV_2018_paper.pdf)
 11/2 | MY | [Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks](http://people.cs.uchicago.edu/~ravenben/publications/abstracts/backdoor-sp19.html)
 _2018_ | |
@@ -53,6 +57,7 @@ KH | Kevin Ho-Shon
 KS | Kaikai Shen
 LH | Len Hamey
 LW | Lei Wang
+MG | Mina Ghaffari
 MS | Maryam Shahpasand
 MY | Mahmood Yousefi-Azar
 ON | Omid Nezami
@@ -61,6 +66,7 @@ RN | Robert Newport
 SA | Saruar Alam
 SS | Sonit Singh
 TH | Taherah Hassanzadeh
+XD | Xilei Dai
 YQ | Yi Qian
 
 ### RESOURCES
