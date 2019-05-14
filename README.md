@@ -1,6 +1,6 @@
 ## IARG in Department of Computing, Macquarie University
 
-We meet on Monday afternoons, 3.00-4.30pm in the Department's seminar room:  9WW 357.  All are welcome to join us.
+We meet on Monday afternoons, 3.00-4.30pm in the Department's seminar room:  room 221, 4 Research Park Drive.  All are welcome to join us.
 
 ### MEETINGS
 
