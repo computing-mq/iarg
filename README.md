@@ -6,6 +6,7 @@ We meet on Monday afternoons, 3.00-4.30pm in the Department's seminar room:  roo
 
 Date | Presenter | Topic
 ---- | --------- | -----
+27/5 | ON | [Discriminability Objective for Training Descriptive Captions](http://openaccess.thecvf.com/content_cvpr_2018/html/Luo_Discriminability_Objective_for_CVPR_2018_paper.html)
 13/5 | SS | [Field guide for Troubleshooting Deep Neural Networks](http://josh-tobin.com/troubleshooting-deep-neural-networks)
 29/4 | MG | [3D MRI brain tumor segmentation using autoencoder regularization](https://arxiv.org/abs/1810.11654)
 25/3 | AA | [SegAN: Adversarial Network with Multi-scale L1 Loss for Medical Image Segmentation](https://link.springer.com/content/pdf/10.1007%2Fs12021-018-9377-x.pdf)
