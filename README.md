@@ -7,8 +7,7 @@ We meet on Monday afternoons, 3.00-4.30pm in the Department's seminar room:  roo
 Date | Presenter | Topic
 ---- | --------- | -----
 5/8 | AA | [Deep Supervised Cross-Modal Retrieval](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhen_Deep_Supervised_Cross-Modal_Retrieval_CVPR_2019_paper.pdf)
- 22/7 | SS |[Deep Supervised Cross-Modal Retrieval]
-(http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhen_Deep_Supervised_Cross-Modal_Retrieval_CVPR_2019_paper.pdf)
+22/7 | SS |[Deep Supervised Cross-Modal Retrieval](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhen_Deep_Supervised_Cross-Modal_Retrieval_CVPR_2019_paper.pdf)
 8/7 | MS | [Improving Robustness of ML Classifiers against Realizable Evasion Attacks Using Conserved Features](http://arxiv.org/abs/1708.08327)
 11/6 | WK | Overview of Biometrics and Medical Imaging for Machine Vision ([Presentation](presentation-2019-06-11.pdf))
 27/5 | ON | [Discriminability Objective for Training Descriptive Captions](http://openaccess.thecvf.com/content_cvpr_2018/html/Luo_Discriminability_Objective_for_CVPR_2018_paper.html)
