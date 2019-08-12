@@ -6,7 +6,7 @@ We meet on Monday afternoons, 3.00-4.30pm in the Department's seminar room:  roo
 
 Date | Presenter | Topic
 ---- | --------- | -----
-5/8 | AA | [Deep Supervised Cross-Modal Retrieval](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhen_Deep_Supervised_Cross-Modal_Retrieval_CVPR_2019_paper.pdf)
+5/8 | AA | [MRI Augmentation via Elastic Registration for Brain Lesions Segmentation](https://www.researchgate.net/profile/Mikhail_Belyaev3/publication/322007593_MRI_Augmentation_via_Elastic_Registration_for_Brain_Lesions_Segmentation/links/5bd5e6c2a6fdcc3a8dab9524/MRI-Augmentation-via-Elastic-Registration-for-Brain-Lesions-Segmentation.pdf)
 22/7 | SS |[Deep Supervised Cross-Modal Retrieval](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhen_Deep_Supervised_Cross-Modal_Retrieval_CVPR_2019_paper.pdf)
 8/7 | MS | [Improving Robustness of ML Classifiers against Realizable Evasion Attacks Using Conserved Features](http://arxiv.org/abs/1708.08327)
 11/6 | WK | Overview of Biometrics and Medical Imaging for Machine Vision ([Presentation](presentation-2019-06-11.pdf))
