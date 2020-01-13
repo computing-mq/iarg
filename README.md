@@ -7,7 +7,7 @@ We meet on Monday afternoons, 3.00-4.30pm in the Department's seminar room:  roo
 Date | Presenter | Topic
 ---- | --------- | -----
 11/11 | MS | [DroidEvolver: Self-Evolving Android Malware Detection System](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8806731&tag=1)
-16/09 | MY | Machine Learning For Automatic Malware Representation and Analysis (PhD thesis) ([Presentation](presentation-2018-05-14.pdf)) 
+16/09 | MY | Machine Learning For Automatic Malware Representation and Analysis (PhD thesis) ([Presentation](Machine Learning For Automatic Malware Representation and Analysis.pptx)) 
 5/8 | AA | [MRI Augmentation via Elastic Registration for Brain Lesions Segmentation](https://www.researchgate.net/profile/Mikhail_Belyaev3/publication/322007593_MRI_Augmentation_via_Elastic_Registration_for_Brain_Lesions_Segmentation/links/5bd5e6c2a6fdcc3a8dab9524/MRI-Augmentation-via-Elastic-Registration-for-Brain-Lesions-Segmentation.pdf)
 22/7 | SS |[Deep Supervised Cross-Modal Retrieval](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhen_Deep_Supervised_Cross-Modal_Retrieval_CVPR_2019_paper.pdf)
 8/7 | MS | [Improving Robustness of ML Classifiers against Realizable Evasion Attacks Using Conserved Features](http://arxiv.org/abs/1708.08327)
